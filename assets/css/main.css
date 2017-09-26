@@ -1724,8 +1724,8 @@
 
 			.image.avatar img {
 				border-radius: 25%;
-				width: 90%;
-				margin: 1em 1em 1em 1em;
+				width: 80%;
+				margin: 1em 1em 1em 1.35em;
 			}
 
 		.image.avatar48 {

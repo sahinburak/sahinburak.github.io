@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am **Burak Sahin**, a Ph.D. Candidate in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://samanzonouz.gatech.edu/) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/).
+Hi! I am **Burak Sahin**, a Ph.D. Candidate in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).
 
 I hold an M.S. in Computer Science from Georgia Tech (2017) and a B.S. in Computer Science from TOBB University of Economics and Technology (Ankara, Turkey).
 
@@ -24,12 +24,17 @@ Critical infrastructure is foundational to national security and public safety, 
 
 For the full list, see the [Publications](publications) page or my [CV](resume.pdf).
 
-1. **Fuzzing the Physical Space: Physics-Aware Testing of Black-Box Industrial Control Systems.** <u>Burak Sahin</u>, David Oygenblik, Mingxuan Yao, Yizhi Huang, Brendan Saltaformaggio, Saman Zonouz. *IEEE S&P*, 2026.
-2. **The Challenges and Opportunities with Cybersecurity Regulations: A Case Study of the US Electric Power Sector.** Sena Sahin, <u>Burak Sahin</u>, Robin Berthier, Kate Davis, Saman Zonouz, Frank Li. *ACM CCS*, 2025.
-3. **Was This You? Investigating the Design Considerations for Suspicious Login Notifications.** Sena Sahin, <u>Burak Sahin</u>, Frank Li. *NDSS*, 2025.
-4. **Your Control Host Intrusion Left Some Physical Breadcrumbs: Physical Evidence-Guided Post-Mortem Triage of SCADA Attacks.** Moses Ike, Keaton Sadoski, Romuald Valme, <u>Burak Sahin</u>, Saman Zonouz, Wenke Lee. *AsiaCCS*, 2025.
-5. **Identifying Behavior Dispatchers for Malware Analysis.** Kyuhong Park, <u>Burak Sahin</u>, Yongheng Chen, Jisheng Zhao, Evan Downing, Hong Hu, Wenke Lee. *AsiaCCS*, 2021.
-6. **Complexity Verification Using Guided Theorem Enumeration.** Akhilash Srikanth, <u>Burak Sahin</u>, William R. Harris. *POPL*, 2017.
+**Fuzzing the Physical Space: Physics-Aware Testing of Black-Box Industrial Control Systems.** <u>Burak Sahin</u>, David Oygenblik, Mingxuan Yao, Yizhi Huang, Brendan Saltaformaggio, Saman Zonouz. *IEEE S&P*, 2026.
+
+**The Challenges and Opportunities with Cybersecurity Regulations: A Case Study of the US Electric Power Sector.** Sena Sahin, <u>Burak Sahin</u>, Robin Berthier, Kate Davis, Saman Zonouz, Frank Li. *ACM CCS*, 2025.
+
+**Was This You? Investigating the Design Considerations for Suspicious Login Notifications.** Sena Sahin, <u>Burak Sahin</u>, Frank Li. *NDSS*, 2025.
+
+**Your Control Host Intrusion Left Some Physical Breadcrumbs: Physical Evidence-Guided Post-Mortem Triage of SCADA Attacks.** Moses Ike, Keaton Sadoski, Romuald Valme, <u>Burak Sahin</u>, Saman Zonouz, Wenke Lee. *AsiaCCS*, 2025.
+
+**Identifying Behavior Dispatchers for Malware Analysis.** Kyuhong Park, <u>Burak Sahin</u>, Yongheng Chen, Jisheng Zhao, Evan Downing, Hong Hu, Wenke Lee. *AsiaCCS*, 2021.
+
+**Complexity Verification Using Guided Theorem Enumeration.** Akhilash Srikanth, <u>Burak Sahin</u>, William R. Harris. *POPL*, 2017.
 
 ## Honors & Awards
 

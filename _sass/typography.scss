@@ -4,6 +4,10 @@
     a:hover {
         text-decoration: underline;
     }
+    p {
+        margin-top: 0;
+        margin-bottom: 1.4em;
+    }
     ol {
         counter-reset: list;
     }
@@ -31,7 +35,7 @@
     }
     blockquote {
         //border: 1px solid black;
-        border-left: 5px solid #333333;
+        border-left: 5px solid var(--blockquote);
         margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
         font-style: italic;

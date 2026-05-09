@@ -26,4 +26,4 @@ is_contact: true
 
 ## Affiliation
 
-I am a Ph.D. Candidate in the [School of Computer Science](https://scs.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://samanzonouz.gatech.edu/) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/).
+I am a Ph.D. Candidate in the [School of Computer Science](https://scs.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).

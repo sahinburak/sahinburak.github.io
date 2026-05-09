@@ -3,6 +3,17 @@
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme = saved || (prefersDark ? 'dark' : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch (e) {}
+      })();
+    </script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="blog, accent, {{ site.author }}, {{ site.title }}, jekyll">
@@ -72,6 +83,9 @@
                     {% endif %}
                         </li>
                 {% endfor %}
+                <li class="alignable pull-left nav-list">
+                    <button id="theme-toggle" type="button" aria-label="Toggle dark mode">🌙</button>
+                </li>
             </ul>
         </div>
         <div style="clear:both"></div>
@@ -85,11 +99,29 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                    <a href="{{ site.footer_url }}" style="color: var(--muted)"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
     </div>
+    <script>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        var setIcon = function () {
+          var t = document.documentElement.getAttribute('data-theme');
+          btn.textContent = t === 'dark' ? '☀️' : '🌙';
+        };
+        setIcon();
+        btn.addEventListener('click', function () {
+          var current = document.documentElement.getAttribute('data-theme');
+          var next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+          setIcon();
+        });
+      })();
+    </script>
     {% if site.tracking_id %}
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

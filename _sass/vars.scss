@@ -2,7 +2,6 @@
  * Customization Variables
  */
 
-$accent: #FF0F00;
 $image-size: 85px;
 
 /*
@@ -12,3 +11,36 @@ $image-size: 85px;
 $max-width: 700px;
 $med-width: 600px;
 $small-width: 480px;
+
+/*
+ * Theme variables (light = default, dark = override).
+ * Use var(--xxx) inside other partials.
+ */
+
+:root {
+    --bg: #ffffff;
+    --fg: #1a1a1a;
+    --muted: #555555;
+    --accent: #c0392b;
+    --hr: rgba(0, 0, 0, 0.1);
+    --border: #cccccc;
+    --row-alt: #f8f8f8;
+    --blockquote: #333333;
+    --author: #272727;
+    --btn-bg: transparent;
+    --btn-fg: #1a1a1a;
+}
+
+[data-theme="dark"] {
+    --bg: #2b2b2b;
+    --fg: #d4d4d4;
+    --muted: #a0a0a0;
+    --accent: #e8a39a;
+    --hr: rgba(255, 255, 255, 0.08);
+    --border: #444444;
+    --row-alt: #333333;
+    --blockquote: #a0a0a0;
+    --author: #e6e6e6;
+    --btn-bg: transparent;
+    --btn-fg: #d4d4d4;
+}

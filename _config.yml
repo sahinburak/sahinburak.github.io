@@ -20,6 +20,6 @@ nav:
  - name: "Publications"
    link: "/publications"
  - name: "CV"
-   link: "/resume.pdf"
+   link: "/CV.pdf"
  - name: "Contact"
    link: "/contact"

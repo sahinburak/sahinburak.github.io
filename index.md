@@ -24,7 +24,7 @@ Critical infrastructure is foundational to national security and public safety, 
 
 ## Selected Publications
 
-For the full list, see the [Publications](publications) page or my [CV](resume.pdf).
+For the full list, see the [Publications](publications) page or my [CV](CV.pdf).
 
 **Fuzzing the Physical Space: Physics-Aware Testing of Black-Box Industrial Control Systems.** <u>Burak Sahin</u>, David Oygenblik, Mingxuan Yao, Yizhi Huang, Brendan Saltaformaggio, Saman Zonouz. *IEEE S&P*, 2026.
 

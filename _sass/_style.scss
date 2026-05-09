@@ -272,5 +272,15 @@ hr {
     }
 }
 
+.inline-icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    margin-right: 0.4em;
+    color: var(--muted);
+    flex-shrink: 0;
+}
+
 @import "typography";
 @import "tables";

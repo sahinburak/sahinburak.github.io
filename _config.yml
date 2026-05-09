@@ -1,0 +1,25 @@
+title: Burak Sahin
+author: Burak Sahin
+description: Ph.D. Candidate in Computer Science at Georgia Tech, working on cyber-physical systems security.
+url: "https://sahinburak.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+footer: yes
+footer_url: "https://github.com/sahinburak"
+footer_text: "© Burak Sahin"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Publications"
+   link: "/publications"
+ - name: "CV"
+   link: "/resume.pdf"
+ - name: "Contact"
+   link: "/contact"

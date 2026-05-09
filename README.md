@@ -1,1 +1,0 @@
-# sahinburak.github.io

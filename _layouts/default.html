@@ -66,17 +66,24 @@
 </head>
 <body>
     <div class="wrapper">
+        <aside class="sidebar">
+            <a id="sidebar-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <img src="{{ site.baseurl }}/profile.jpg" alt="{{ site.title }}">
+            <p class="sidebar-info">Atlanta, GA<br>Georgia Institute of Technology</p>
+            <p class="sidebar-links">
+                <a href="https://scholar.google.com/citations?user=Bp9EUIgAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+            </p>
+        </aside>
         <div class="navbar container">
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.link contains ".pdf" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a class="nav-link" data-text="{{ x.name }}" target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a class="nav-link" data-text="{{ x.name }}" href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
                         /

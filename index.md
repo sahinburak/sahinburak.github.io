@@ -4,11 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
-
 Hi! I am **Burak Sahin**, a Ph.D. Candidate in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).
-
-I hold an M.S. in Computer Science from Georgia Tech (2017) and a B.S. in Computer Science from TOBB University of Economics and Technology (Ankara, Turkey).
 
 ## Research Interests
 

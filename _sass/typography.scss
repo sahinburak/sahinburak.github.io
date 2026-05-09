@@ -7,6 +7,9 @@
     p {
         margin-top: 0;
         margin-bottom: 1.4em;
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
     }
     ol {
         counter-reset: list;

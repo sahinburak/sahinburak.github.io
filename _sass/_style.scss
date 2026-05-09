@@ -180,15 +180,9 @@ hr {
 }
 .sidebar-info a {
     color: var(--fg);
-    text-decoration: none;
     display: inline-flex;
     align-items: center;
     gap: 8px;
-}
-.sidebar-info a:hover {
-    color: var(--accent);
-    text-decoration: underline;
-    text-decoration-color: var(--accent);
 }
 .sidebar-icon {
     width: 16px;
@@ -210,6 +204,12 @@ hr {
     .sidebar img {
         width: 140px;
         height: 140px;
+    }
+    .sidebar-info {
+        text-align: center;
+    }
+    .sidebar-info li {
+        justify-content: center;
     }
 }
 

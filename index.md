@@ -6,15 +6,21 @@ layout: default
 
 Hi! I am **Burak Sahin**, a Ph.D. Candidate in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).
 
+---
+
 ## Research Interests
 
 Critical infrastructure is foundational to national security and public safety, yet the underlying control systems remain high-value targets for sophisticated adversaries. My research aims to strengthen the security and resilience of these cyber-physical systems through practical methods for vulnerability discovery, forensic investigation, and malware analysis. I specialize in applying security testing techniques, including **fuzzing** and **symbolic execution**, to identify flaws and investigate failures across industrial and emerging autonomous systems.
+
+---
 
 ## News
 
 * **Mar 2026** — *ICSFlux* accepted to **IEEE S&P 2026**.
 * **Dec 2025** — *FIRA* accepted to **USENIX Security 2026**.
 * **2025** — Two papers accepted to **CCS 2025** and **NDSS 2025** on cybersecurity regulations and suspicious-login UX.
+
+---
 
 ## Selected Publications
 
@@ -31,6 +37,8 @@ For the full list, see the [Publications](publications) page or my [CV](resume.p
 **Identifying Behavior Dispatchers for Malware Analysis.** Kyuhong Park, <u>Burak Sahin</u>, Yongheng Chen, Jisheng Zhao, Evan Downing, Hong Hu, Wenke Lee. *AsiaCCS*, 2021.
 
 **Complexity Verification Using Guided Theorem Enumeration.** Akhilash Srikanth, <u>Burak Sahin</u>, William R. Harris. *POPL*, 2017.
+
+---
 
 ## Honors & Awards
 

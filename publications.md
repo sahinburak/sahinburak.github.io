@@ -48,7 +48,10 @@ title: Publications
 
 ### Journals and Magazines
 
+**Beyond the Checklist: Modernizing Cybersecurity Regulation for the U.S. Power Grid.**
+<br>Sena Sahin, <u>Burak Sahin</u>, Robin Berthier, Kate Davis, Saman Zonouz, Frank Li.
+<br>*IEEE Power and Energy Magazine*, 2026.
+
 **Dissecting the Industrial Control Systems Software Supply Chain.**
 <br>Constantine Doumanidis, Yongyu Xie, Prashant H.N. Rajput, Ryan Pickren, <u>Burak Sahin</u>, Saman Zonouz, Michail Maniatakos.
 <br>*IEEE Security and Privacy Magazine*, 2023.
-

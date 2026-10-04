@@ -1,6 +1,6 @@
 title: Burak Sahin
 author: Burak Sahin
-description: Ph.D. Candidate in Computer Science at Georgia Tech, working on cyber-physical systems security.
+description: Assistant Professor at the University of Tennessee, Knoxville, working on cyber-physical systems security.
 url: "https://sahinburak.github.io"
 baseurl: ""
 
@@ -19,6 +19,8 @@ nav:
    link: "/"
  - name: "Publications"
    link: "/publications"
+ - name: "Teaching"
+   link: "/teaching"
  - name: "CV"
    link: "/CV.pdf"
  - name: "Contact"

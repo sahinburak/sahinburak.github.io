@@ -4,18 +4,21 @@ layout: default
 
 ## About Me
 
-Hi! I am **Burak Sahin**, a Ph.D. Candidate in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).
+Hi! I am **Burak Sahin**, an **Assistant Professor** in the [College of Emerging and Collaborative Studies (CECS)](https://cecs.utk.edu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/).
 
 ---
 
 ## Research Interests
 
-Critical infrastructure is foundational to national security and public safety, yet the underlying control systems remain high-value targets for sophisticated adversaries. My research aims to strengthen the security and resilience of these cyber-physical systems through practical methods for vulnerability discovery, forensic investigation, and malware analysis. I specialize in applying security testing techniques, including **fuzzing** and **symbolic execution**, to identify flaws and investigate failures across industrial and emerging autonomous systems.
+Cyber-physical systems and critical infrastructure security, with a focus on vulnerability discovery, forensic investigation, and malware analysis for industrial control and autonomous systems.
 
 ---
 
 ## News
 
+* **Aug 2026** — Joined the **University of Tennessee, Knoxville** as an Assistant Professor in the College of Emerging and Collaborative Studies.
+* **Aug 2026** — Completed my **Ph.D. in Computer Science** at the Georgia Institute of Technology.
+* **Jun 2026** — *Beyond the Checklist* accepted to **IEEE Power and Energy Magazine**.
 * **Mar 2026** — *ICSFlux* accepted to **IEEE S&P 2026**.
 * **Dec 2025** — *FIRA* accepted to **USENIX Security 2026**.
 * **2025** — Two papers accepted to **CCS 2025** and **NDSS 2025** on cybersecurity regulations and suspicious-login UX.

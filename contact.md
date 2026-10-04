@@ -15,15 +15,15 @@ is_contact: true
 
 ## Office
 
-> E1011, CODA
+> College of Emerging and Collaborative Studies
 >
-> 756 West Peachtree Street NW
+> Claxton Education Building, 1122 Volunteer Blvd
 >
-> Atlanta, GA 30308-4016, USA
+> Knoxville, TN 37996, USA
 
 <iframe
-  title="CODA Building, Georgia Tech"
-  src="https://www.google.com/maps?q=CODA+Building,+756+W+Peachtree+St+NW,+Atlanta,+GA+30308&output=embed"
+  title="Claxton Education Building, University of Tennessee, Knoxville"
+  src="https://www.google.com/maps?q=Claxton+Education+Building,+1122+Volunteer+Blvd,+Knoxville,+TN+37996&output=embed"
   width="100%"
   height="320"
   style="border:0; border-radius: 6px; margin-top: 0.75em;"
@@ -35,4 +35,4 @@ is_contact: true
 
 ## Affiliation
 
-I am a Ph.D. Candidate in the [School of Computer Science](https://scs.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).
+I am an Assistant Professor in the [College of Emerging and Collaborative Studies](https://cecs.utk.edu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/). I completed my Ph.D. in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) ([CPSec Lab](https://sites.gatech.edu/capcpsec/)) and co-advised by [Brendan Saltaformaggio](https://saltaformaggio.ece.gatech.edu/) ([CyFI Lab](https://cyfi.ece.gatech.edu/)).

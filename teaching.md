@@ -14,7 +14,7 @@ title: Teaching
 <br>Spring 2027: CYBR 501 - Foundations of Applied Cybersecurity
 
 <br>Fall 2026: CYBR 102 - Cybersecurity: Practical Applications
-<br>Fall 2026: CYBR 520 - Cybersecurity: Practical Applications 
+<br>Fall 2026: CYBR 520 - Grey Zone Warfare and Cybersecurity 
 
 ---
 
